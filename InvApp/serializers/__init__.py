@@ -1,0 +1,5 @@
+from .productoSerializer import ProductSerializer
+from .farmaciaSerializer import FarmaciaSerializer
+from .empleadoSerializer import EmpleadoSErializer
+from .proveedorSerializer import ProveedorSerializer
+from .clienteSerializer import ClientesSerializer
